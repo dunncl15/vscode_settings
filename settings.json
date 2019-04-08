@@ -1,0 +1,40 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Flatland Monokai",
+  "terminal.external.osxExec": "iTerm.app",
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": false,
+  "editor.tabCompletion": "on",
+  "editor.detectIndentation": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 0,
+  "editor.autoClosingBrackets": "always",
+  "editor.tabSize": 2,
+  "window.zoomLevel": -1,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.fontSize": 13,
+  "files.associations": {
+    ".gitignore": "javascript"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.formatOnSave": true
+}
